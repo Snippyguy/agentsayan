@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SayanDey
-- 👀 I’m interested in Coding
-- 🌱 I’m currently learning sql,Pl/sql
+- 👀 I’m working as a SQL DBA, Tableau Consultant & Data Engineer
+- 🌱 I’m currently learning ADF
 - 💞️ I’m looking to collaborate on different projects
 - 📫 How to reach me ... deysayan55@gmail.com
 
